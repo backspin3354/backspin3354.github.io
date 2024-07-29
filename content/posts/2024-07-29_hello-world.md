@@ -6,7 +6,7 @@ tags = []
 +++
 
 I recently attended the CIY MOVE conference with my Chruch's youth
-group. It was a life-changing perspective, and provided me with a
+group. It was a life-changing experience, and provided me with a
 fresh perspective on life. I gave up my life to God, and now I'm
 figuring out what to do next.
 

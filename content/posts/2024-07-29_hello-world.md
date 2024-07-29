@@ -1,6 +1,6 @@
 +++
 date = '2024-07-29T18:06:42-04:00'
-draft = true
+draft = false
 title = 'Hello, World!'
 tags = []
 +++

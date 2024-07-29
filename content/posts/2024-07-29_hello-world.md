@@ -20,7 +20,7 @@ follows:
 > ***Note Taker***
 >
 > *For the next year, commit to taking handwritten notes every time you*
-> *listen to a seromon at church or online.*
+> *listen to a sermon at church or online.*
 >
 > *Share what you're learning once a week with a group leader or a*
 > *peer.*
